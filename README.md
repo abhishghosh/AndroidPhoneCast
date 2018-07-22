@@ -12,7 +12,7 @@ AdbRemoteScreen needs ADB to work. You must provide an adb binary path in the lo
 
 ###### From UI:
 
-Right click on jar file > open with > Oracle Java X Runtime or OpenJDK X Runtime.
+
 
 ###### In command line :
 ```shell

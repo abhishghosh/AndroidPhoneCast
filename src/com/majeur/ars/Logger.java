@@ -10,7 +10,7 @@ import javax.swing.JTextArea;
 import javax.swing.text.DateFormatter;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;
-
+//test 1
 public class Logger {
 
 	private static WeakReference<JTextArea> sTextAreaRef = new WeakReference<JTextArea>(
